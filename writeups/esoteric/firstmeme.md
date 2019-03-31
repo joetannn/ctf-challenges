@@ -1,6 +1,6 @@
 **FIRSTMEME WRITEUP**
 
-Line 1 starts the program, and line 2 is a red heering comment.
+Line 1 starts the program, and line 2 is a red herring comment.
 
 1. The constant variable 5 is put into RDI:
 
