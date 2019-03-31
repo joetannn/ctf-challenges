@@ -4,4 +4,5 @@ Esoteric programming languages are "unusual" programming languages that have non
 
 These are mainly written to be hosted on Mason Competitive Cyber's in-house Training CTF (limited to George Mason University students).
 
-Writeups are currently in progress or have been written for these challenges. Good luck.
+Current Challenges:
+1. firstmeme.png: What does the program return?
